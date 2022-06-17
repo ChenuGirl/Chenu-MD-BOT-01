@@ -3528,7 +3528,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/zFNLzGr/Chenumi.jpg' }, caption: `*Hi Bro ${m.pushName}*\nContact me via Whatsapp\n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/zFNLzGr/Chenumi.jpg' }, caption: `*Hi ${m.pushName}*\nContact me via Whatsapp\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
