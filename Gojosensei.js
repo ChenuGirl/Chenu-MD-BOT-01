@@ -1757,7 +1757,7 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '🪀Rιʋιʂԋαɳ😎',
+                                    displayText: '♥️Rιʋιʂԋαɳ♥️',
                                     url: `${sc}`
                                 }
                             }, {
@@ -1791,7 +1791,7 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: '🪀Rιʋιʂԋαɳ😎',
+                                    displayText: '♥️Rιʋιʂԋαɳ♥️',
                                     url: `${sc}`
                                 }
                             }, {
